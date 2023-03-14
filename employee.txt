@@ -1,0 +1,16 @@
+HR-Human Resource:
+E001,Phan Quốc Khánh,123
+E002,Phan Quốc Anh,1232
+E003,Phan Quốc Tịnh,12334
+E004,Phan Quốc Phúc,1235
+E005,Phan Quốc Khang,12363
+E006,Phan Quốc Đức,12323
+TD-Technic Department:
+E0012,Phan Quốc Đạt,123
+E0013,Phan Quốc Thuận,123
+AP-Accounting Department:
+E0014,Phan Đức Khánh,1239
+E0015,Phan Anh Khánh,12399
+E0016,Phan Hoàng Khánh,123999
+E0017,Phan Văn Khánh,1239999
+E0018,Phan Hoàng Khánh,12399999
