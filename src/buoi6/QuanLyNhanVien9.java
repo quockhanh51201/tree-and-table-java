@@ -325,7 +325,7 @@ public class QuanLyNhanVien9 extends javax.swing.JFrame {
             }else if(selecteObject instanceof Employee)
             {
                 this.curEmpNode = selectedNode;
-                this.curDepNode =  null;
+                this.curDepNode =  (DefaultMutableTreeNode)(selectedNode.getParent());
             }
         }
         viewDepaAndEmp();
